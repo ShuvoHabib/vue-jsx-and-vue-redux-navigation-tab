@@ -1,4 +1,4 @@
-import TabIndex from './components/Tab';
+import TabIndex from './components/VueTab';
 import TabRedux from './components/ReduxTab';
 import './App.css';
 
