@@ -1,0 +1,25 @@
+#app {
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+    margin-top: 0px;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 10px;
+}
+a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 15px;
+    background: #2f80b3;
+    color: #fff;
+}
+li.active a{
+    opacity: .5;
+    background: red;
+}
